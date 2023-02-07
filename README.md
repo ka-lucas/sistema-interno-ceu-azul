@@ -8,6 +8,6 @@ Nesse projeto utilizamos JavaScript, React Js e Node Js. Para fazer o controle d
 
 ## Uso
 
-Inicie o terminal do Node Js, entre na pasta do projeto e instale a pasta node_modules com o comando npm i. Para abrir uma página no navegador do projeto use o comando npm start.
+Inicie o terminal do Node Js, entre na pasta do projeto e instale a pasta node_modules com o comando `npm i`. Para abrir uma página no navegador do projeto use o comando `npm start`.
 
-Na página inicial entre com o email: admin@admin.com e a senha: admin.
+Na página inicial entre com o `email: admin@admin.com` e a `senha: admin`.

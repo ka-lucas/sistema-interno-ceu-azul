@@ -1,0 +1,47 @@
+::-webkit-scrollbar {
+  width: 0.9rem;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #fcc449;
+  border-radius: 5rem;
+}
+
+body {
+  background: rgb(117, 144, 248);
+  background: linear-gradient(
+    0deg,
+    rgba(117, 144, 248, 1) 0%,
+    rgba(121, 145, 242, 0) 49%
+  );
+}
+
+.img-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  width: 60%;
+  object-fit: cover;
+  box-shadow: 10px 15px 25px 0 rgba(101, 77, 136, 0.2);
+  transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
+  border-radius: 40px;
+}
+.botao {
+  display: flex;
+  list-style: inside;
+  gap: 10px;
+}
+.espaco {
+  color: white;
+  gap: 5px;
+  background-color: white;
+}
+.botaosair {
+  size: 100;
+}
